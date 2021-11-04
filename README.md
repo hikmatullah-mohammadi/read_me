@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HikmatullahMohammadim80
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web front end
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web based projects.
 - 📫 How to reach me hikmatullah.m80@gmail.com
 
 <!---
